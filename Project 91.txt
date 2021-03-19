@@ -1,0 +1,11 @@
+                                                                                                      SHIVAM'S OWN PROJECT
+
+
+PROJECT IDEA ~ To create an app which cheks your helth by assesing you through asking you some questions related to your 
+                               health conditions , for e.g ___ Did you caught cold in past few days/weeks . And then tells you your health                               condition as per the data accumalated in it ...... And it also tells you about the perfect weight which you should                              have Acording to your age , if you are underweight / overweight the app will tell you some ways and exercises                              from which you can take advises or else also show numbers of nearby doctor clinics that would help you get                                       your self Checked Physicaly .
+
+
+HOW THIS APP WORKS ~ I want to create this idea for android users or you can say for Playstore .... You can download this app                                                   through playstore , it will ask you some information about you like : whats your name etc . and then                                                      will show you the results which it gets after going through all of the internet .
+
+
+UX OF THE APP ~ I will try to make the app look interesting by making alot of interaction points with the user like they can enter                                   values in the interaction tabs ..... and also I will try to make the colors and backgrounds , animations more                                           relevant to the topic of the app . I will use my creativity as much as possible and make the App look interesting.
